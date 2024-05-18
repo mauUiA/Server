@@ -3,6 +3,7 @@
 This project is created to handle sensor data using a Node.js server and a MySQL database.
 To run the application it is necessary to crate a profile on https://www.mysql.com/
 
+
 ## Introduction
 
 This Node.js project sets up a server to interact with a MySQL database, handling GET and POST requests to fetch and insert sensor data.
